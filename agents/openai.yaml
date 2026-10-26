@@ -1,0 +1,5 @@
+interface:
+  display_name: "Deep Learn"
+  short_description: "Learn a source deeply from first principles in Obsidian"
+policy:
+  allow_implicit_invocation: false
